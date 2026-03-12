@@ -51,7 +51,7 @@ spec:
       name: Fetch Base
       action: fetch:template
       input:
-        url: https://github.com/Sanjeev-Thiyagarajan/backstage-express-api-blueprint
+        url: https://github.com/leogsilva/backstage-express-api-blueprint
         values:
           name: ${{ parameters.name }}
           owner: ${{ parameters.owner }}
